@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @eroschagas
-- 👀 I’m interested in share my work as front-end designer
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on sharing my creation
-- 📫 To reach me via linkedin: https://www.linkedin.com/in/eros-chagas-b93911b3/
+- 👀 I’m interested in sharing my work as a front-end developer
+- 🌱 I’m currently learning Strapi
+- 📫 Reach me via linkedin: https://www.linkedin.com/in/eros-chagas-b93911b3/
 
 <!---
 eroschagas/eroschagas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
